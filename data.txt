@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>Search | Northwest</title>
+
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Northwest Missouri State University" name="author"/>
+<meta content="Northwest Missouri State University, Northwest, NWMSU, Maryville, Missouri, Bearcats, College, electronic campus, notebook university, laptop university, notebook, laptop, college, school, higher education" name="keywords"/>
+<meta content="The official website of Northwest Missouri State University located in Maryville, Missouri." name="description"/>
+<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,600,700|Montserrat:300,400,800|Bitter:400,700" rel="stylesheet"/>
+<link href="https://www.nwmissouri.edu/layout/v2019/css/master.css" rel="stylesheet" type="text/css"/>
+<script src="https://www.google.com/jsapi?key=ABQIAAAAEdFkhmj0DJQJiGTYI8ZKhhRmgVIye39lZuXEZc-rrQ-Zz_NtWBRLh0xvu4SPUP2tYSBipAMsOIaWZw" type="text/javascript">
+</script>
+<script src="https://www.nwmissouri.edu/layout/scripts/jquery.js" type="text/javascript">
+</script>
+<script src="https://www.nwmissouri.edu/layout/scripts/jquery.ui.js" type="text/javascript">
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-412146-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-412146-1', { 'anonymize_ip': true });
+</script>
+<style type="text/css">
+<!--
+#page table {width:100%; border-collapse:separate !important; border-spacing:initial !important; border:none !important; margin:0 !important;}
+
+#gsc-i-id1{
+ color: #000 !important;
+}
+#page table tr {display:table-row; padding: 0 !important;}
+#page table td {float:none !important; display:table-cell; padding:0 !important;}
+#page table td::before {padding:0 !important;}
+
+
+#___gcse_0 > div > div > div > div.gsc-wrapper > div.gsc-resultsbox-visible > div > div > div.gsc-webResult.gsc-result.gsc-promotion > div > table > tbody > tr{
+	background-color:transparent;
+}
+/*.gsc-input-box {}*/
+#gsc-i-id1{
+box-shadow: none !important;
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+padding: 3px 3px 3px 5px !important;
+font-size: 16px !important;
+height: 30px !important;
+margin-right: 6px !important;
+margin-top: 2px !important;
+color: #000 !important;
+}
+.gs-image-box {padding-right:15px !important; }
+.cse .gsc-search-button-v2, .gsc-search-button-v2 {
+height: 48px !important;
+cursor:pointer;
+border:none !important;
+background-color: #006747 !important;
+}
+.gsc-search-button-v2 {padding-top:14px !important; padding-bottom:38px !important;}
+#gs_cb50 {font-size:50px; position:relative; top:5px; right:5px;}
+.gsc-search-button-v2 svg {width:28px; height:28px;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {color:#3D399D !important; font-size:16px !important; margin:auto 10px;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page:hover {color:#BF1722 !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {color:#3D399D !important; font-weight:bold; text-decoration:underline;}
+
+@media (max-width:959px){
+	#gs_id50 > tbody td {float: inherit; position:initial !important; text-align:center !important; width:100% !important;padding:inherit !important; }
+	#___gcse_0 > div > div > form > table > tbody td{float: unset; position:unset !important; text-align:center !important; width:95% !important;padding:inherit !important; }
+} 
+
+
+-->
+</style>
+</head>
+<body>
+    <a class="skip_link" href="#wrapper" id="skip_to_content">Skip to Main Content</a>
+    <div id="campaign-wrapper">
+<div id="campaign-slogan"><a href="https://www.nwmissouri.edu/ForeverGreen" title="Go to Forever Green Campaign"><img alt="Forever Green" src="https://www.nwmissouri.edu/layout/v2019/images/svg/fg-slogan.svg" /></a></div>
+<div id="campaign-animated"><a class="svg" href="https://www.nwmissouri.edu/ForeverGreen" title="Go to Forever Green Campaign"><span>Campaign for Northwest</span></a></div>
+</div>
+<header>
+<div id="hwrapper">
+<div class="hlogo"><a href="https://www.nwmissouri.edu" title="Return to Northwest"><img alt="Northwest Missouri State University" height="79px" src="https://www.nwmissouri.edu/layout/v2019/images/svg/logo-n.svg" width="74px"/></a></div>
+<div class="deptTitle"><a href="index.htm" title="Return to Northwest Missouri State University">Northwest Missouri State University</a></div>
+<div class="hicon" id="hicon"><a class="menu-toggle" href="javascript:void(0)" id="nw-icon" title="Menu &amp; Search"> <img alt="Menu &amp; Search" height="32px" id="nw-icon-svg" src="https://www.nwmissouri.edu/layout/v2019/images/svg/btn-menu.svg" width="32px"/> </a></div>
+</div>
+			<div class="mm-menu" id="mobile-nw-Nav" tabindex="-1">
+				<section id="mobile-nwNav-top">
+					<div class="mm-google-search">
+						<form action="https://www.nwmissouri.edu/search.htm"><input name="cx" type="hidden" value="010425117085374320375:orfqon6c2l8"/> <label class="sr-only" for="q">Search Term</label> <input alt="Enter search term(s)" class="searchText" id="q" name="q" placeholder="Search nwmissouri.edu" size="24" type="text"/> <input alt="Start search" class="searchButton" name="sa" src="https://www.nwmissouri.edu/layout/v2019/images/svg/btn-search.svg" title="Start search" type="image" value="Search"/> <input name="cof" type="hidden" value="FORID:11"/></form>
+					</div>
+					<div class="mm-buttons">
+						<div class="mm-login"><a href="https://www.nwmissouri.edu/login/" title="Go to Bearcat Login"><img alt="Bearcat Login" height="38px" src="https://www.nwmissouri.edu/layout/v2019/images/svg/btn-login.svg" width="38px"/></a></div>
+<div class="mm-directory"><a href="https://www.nwmissouri.edu/directory.htm" title="Go to Directory"><img alt="Directory" height="38px" src="https://www.nwmissouri.edu/layout/v2019/images/svg/btn-directory.svg" width="38px"/></a></div>
+<div class="mm-az"><a href="https://www.nwmissouri.edu/az.htm" title="Go to A-Z Index"><img alt="A-Z Index" height="38px" src="https://www.nwmissouri.edu/layout/v2019/images/svg/btn-az.svg" width="38px"/></a></div>
+					</div>
+				</section>
+				<nav aria-label="Site Navigation" id="main-nav">
+<ul>
+<li class="has-submenu"><a aria-expanded="false" aria-haspopup="true" href="javascript:void(0)"><span>About <i class="chevron"></i></span></a>
+<ul>
+<li><a href="https://www.nwmissouri.edu/aboutus/index.htm">About Northwest</a></li>
+<li><a href="https://www.nwmissouri.edu/aboutus/history.htm">Traditions and History</a></li>
+<li><a href="https://www.nwmissouri.edu/aboutus/why-northwest.htm">Facts and Figures</a></li>
+<li><a href="https://www.nwmissouri.edu/services/sustainability/index.htm">Sustainability</a></li>
+<li><a href="https://www.nwmissouri.edu/aboutus/regents/index.htm">Board of Regents</a></li>
+<li><a href="https://www.nwmissouri.edu/aboutus/president/index.htm">President's Office</a></li>
+<li><a href="http://agency.governmentjobs.com/nwmissouri/default.cfm">Employment</a></li>
+<li><a href="https://www.nwmissouri.edu/media/index.htm">Media Center</a></li>
+</ul>
+</li>
+<li class="has-submenu"><a aria-expanded="false" aria-haspopup="true" href="javascript:void(0)"><span>Admissions <i class="chevron"></i></span></a>
+<ul>
+<li><a href="https://www.nwmissouri.edu/admissions/index.htm">Admissions Homepage</a></li>
+<li><a href="https://www.nwmissouri.edu/admissions/apply/index.htm">Apply Now!</a></li>
+<li><a href="https://www.nwmissouri.edu/studentaccounts/tuitionandfees.htm">Tuition and Fees</a></li>
+<li><a href="https://www.nwmissouri.edu/finaid/index.htm">Scholarships and Financial Assistance</a></li>
+<li><a href="https://www.nwmissouri.edu/studentsuccess/firstgen/index.htm">First-Generation Student</a></li>
+<li><a href="https://www.nwmissouri.edu/parents/index.htm">Parents and Families</a></li>
+<li><a href="https://www.nwmissouri.edu/admissions/campusvisits/index.htm">Visit Campus</a></li>
+<li><a href="https://www.nwmissouri.edu/virtualtour/index.htm">Virtual Tour</a></li>
+</ul>
+</li>
+<li class="has-submenu"><a aria-expanded="false" aria-haspopup="true" href="javascript:void(0)"><span>Academics <i class="chevron"></i></span></a>
+<ul>
+<li><a href="https://www.nwmissouri.edu/academics/index.htm">Academics Homepage</a></li>
+<li><a href="https://www.nwmissouri.edu/academics/majors.htm">Majors and Minors</a></li>
+<li><a href="https://online.nwmissouri.edu/">Online Programs</a></li>
+<li><a href="https://www.nwmissouri.edu/graduate/index.htm">Graduate School</a></li>
+<li><a href="https://www.nwmissouri.edu/academics/honors/index.htm">Honors Program</a></li>
+<li><a href="https://www.nwmissouri.edu/international/studyabroad/index.htm">Study Abroad</a></li>
+<li><a href="https://www.nwmissouri.edu/studentsuccess/index.htm">Student Success Center</a></li>
+<li><a href="https://www.nwmissouri.edu/library/index.htm">Library</a></li>
+<li><a href="https://www.nwmissouri.edu/career/index.htm">Career Services</a></li>
+<li><a href="https://www.nwmissouri.edu/kc/index.htm">Northwest-Kansas City</a></li>
+</ul>
+</li>
+<li class="has-submenu"><a aria-expanded="false" aria-haspopup="true" href="javascript:void(0)"><span>Campus Life <i class="chevron"></i></span></a>
+<ul>
+<li><a href="https://www.nwmissouri.edu/getinvolved/index.htm">Student Involvement</a></li>
+<li><a href="https://www.nwmissouri.edu/reslife/index.htm">Residential Life</a></li>
+<li><a href="http://www.nwcampusdining.com/">Campus Dining</a></li>
+<li><a href="https://www.nwmissouri.edu/recreation/index.htm">Recreation and Fitness</a></li>
+<li><a href="https://www.nwmissouri.edu/wellness/index.htm">Wellness Services</a></li>
+<li><a href="https://www.nwmissouri.edu/diversity/index.htm">Diversity and Inclusion</a></li>
+<li><a href="https://www.nwmissouri.edu/hr/student/index.htm">Student Employment</a></li>
+<li><a href="https://www.nwmissouri.edu/titleixequity/accessibility/index.htm">Accessibility</a></li>
+</ul>
+</li>
+<li class="has-submenu"><a aria-expanded="false" aria-haspopup="true" href="javascript:void(0)"><span>Offices <i class="chevron"></i></span></a>
+<ul>
+<li><a href="https://www.nwmissouri.edu/registrar/index.htm">Registrar</a></li>
+<li><a href="https://www.nwmissouri.edu/studentaccounts/index.htm">Student Account Services</a></li>
+<li><a href="https://www.nwmissouri.edu/hr/index.htm">Human Resources</a></li>
+<li><a href="https://www.nwmissouri.edu/compserv/index.htm">IT Help Desk</a></li>
+<li><a href="https://www.nwmissouri.edu/international/index.htm">International Involvement Center</a></li>
+<li><a href="https://www.nwmissouri.edu/police/index.htm">University Police</a></li>
+</ul>
+</li>
+</ul>
+</nav><nav aria-label="Secondary Navigation" class="nav-list" id="sub-nav">
+<ul>
+<li><a class="btn dark" href="https://www.nwmissouri.edu/alumni/index.htm"><span>Alumni</span></a></li>
+<li><a class="btn dark" href="https://www.nwmissouri.edu/foundation/index.htm"><span>Giving</span></a></li>
+<li><a class="btn dark" href="http://www.bearcatsports.com/"><span>Athletics</span></a></li>
+<li><a class="btn dark" href="http://calendar.nwmissouri.edu/"><span>Events</span></a></li>
+<li><a class="btn dark" href="https://www.nwmissouri.edu/horacemann/index.htm"><span>Horace Mann</span></a></li>
+</ul>
+</nav>
+			</div>
+</header>
+<div id="wrapper">
+    <style type="text/css">#header-img.random {display:block;}</style>
+    <section class="random" id="header-img" style="background-image:url('images/header-img/campus fall fall2017 tw 00278.jpg')">&#160;</section>
+    <section id="contentum">
+        <nav aria-label="Page Menu" class="accordion in-this-section" id="pagenav"><div class="accordion-section"><h4 class="accordion-handle"><a aria-expanded="false" aria-haspopup="true" class="pn-toggle" href="javascript:void(0)"><img alt="" class="nav-icon" height="20px" src="layout/v2019/images/svg/btn-pagenav.png" width="20px"/> Page Menu</a></h4><div class="accordion-content pagenav-open"><p class="heading">Northwest</p><ul class="pagenavlinks">
+<li><a href="https://www.nwmissouri.edu/academics/index.htm">Academics</a></li>
+<li><a href="https://www.nwmissouri.edu/admissions/index.htm">Admissions</a></li>
+<li><a href="http://www.bearcatsports.com" rel="noopener" target="_blank">Athletics</a></li>
+<li><a href="https://online.nwmissouri.edu/">Online Programs</a></li>
+<li><a href="https://www.nwmissouri.edu/kc/index.htm">Northwest-Kansas City</a></li>
+<li><a href="https://www.nwmissouri.edu/library/">Library</a></li>
+<li><a href="https://www.nwmissouri.edu/hr/index.htm">Employment</a></li>
+<li><a href="http://calendar.nwmissouri.edu/">Calendar of Events</a></li>
+</ul></div></div></nav>
+        <section id="page">
+            <p id="breadcrumbs"><a href="https://www.nwmissouri.edu"><img alt="Back to Homepage" class="home" height="auto" src="https://www.nwmissouri.edu/layout/v2019/images/svg/home.svg" width="18px"/></a></p>
+            <h1>Search</h1><p class="caption" style="text-align: center;">If you are on campus and receive a "Page Not Found" error when viewing a search result, <br/>try adding "www." to the beginning of the URL and refreshing the page.</p>
+<hr/>
+<script>
+  (function() {
+    var cx = '010425117085374320375:orfqon6c2l8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+        	
+        </section>
+        <br class="clear"/>
+    </section>
+</div>
+<footer><div id="col-left">
+<div id="col-1"><a href="https://www.nwmissouri.edu/admissions/campusvisits/maps.htm" title="Go to Directions"><img alt="Directions" height="275" src="https://www.nwmissouri.edu/layout/v2019/images/svg/location.svg" width="275"/></a></div>
+<div id="col-2">
+<p><strong>Northwest Missouri State University</strong><br/> 800 University Drive<br/> Maryville, MO 64468 USA</p>
+<p>660.562.1212</p>
+<h3><a href="https://www.nwmissouri.edu/media/social.htm" title="Go to Social Directory">Stay Connected</a></h3>
+<ul id="social-icons">
+<li><a href="https://www.facebook.com/nwmissouri" title="Facebook"><img alt="Facebook" height="35px" src="https://www.nwmissouri.edu/layout/v2019/images/svg/social-facebook.svg" width="35px"/></a></li>
+<li><a href="https://twitter.com/nwmostate" title="Twitter"><img alt="Twitter" height="35px" src="https://www.nwmissouri.edu/layout/v2019/images/svg/social-twitter.svg" width="35px"/></a></li>
+<li><a href="https://instagram.com/nwmostate/" title="Instagram"><img alt="Instagram" height="35px" src="https://www.nwmissouri.edu/layout/v2019/images/svg/social-instagram.svg" width="35px"/></a></li>
+<li><a href="https://www.youtube.com/user/NorthwestVideo" title="YouTube"><img alt="YouTube" height="35px" src="https://www.nwmissouri.edu/layout/v2019/images/svg/social-youtube.svg" width="35px"/></a></li>
+</ul>
+</div>
+</div>
+<div id="col-right">
+<div id="col-3">
+<ul id="nav-quicklinks">
+<li><a href="https://www.nwmissouri.edu/academics/calendar.htm">Academic Calendar</a></li>
+<li><a href="https://www.nwmissouri.edu/facts/consumerinfo.htm">Consumer Information</a></li>
+<li><a href="https://www.nwmissouri.edu/alert/index.htm">Emergency Preparedness</a></li>
+<li><a href="https://www.nwmissouri.edu/foundation/giving/onlinegiving.htm">Make a Gift</a></li>
+<li><a href="https://www.nwmissouri.edu/maps/index.htm">Maps &amp; Tours</a></li>
+<li><a href="https://www.nwmissouri.edu/policies/index.htm">Policies</a></li>
+<li><a href="https://www.nwmissouri.edu/titleixequity/titleix/index.htm">Title IX</a></li>
+</ul>
+</div>
+<div id="col-4">
+<ul id="nav-admissions">
+<li><a class="request" href="https://www.nwmissouri.edu/admissions/contact.htm#request">Request Admissions Info</a></li>
+<li><a class="schedule" href="https://www.nwmissouri.edu/admissions/campusvisits/index.htm">Schedule a Visit</a></li>
+<li><a class="apply" href="https://www.nwmissouri.edu/admissions/apply/index.htm">Apply Now</a></li>
+</ul>
+</div>
+</div>
+<div id="col-bottom">
+<ul id="nav-legal">
+<li><a href="https://www.nwmissouri.edu/contact.htm">Contact Us</a></li>
+<li><a href="https://www.nwmissouri.edu/directory.htm">Directory</a></li>
+<li><a href="https://www.nwmissouri.edu/aboutus/comment.htm">Feedback</a></li>
+<li><a href="https://www.nwmissouri.edu/az.htm">A-Z Index</a></li>
+</ul>
+<p class="copy">&#169; 2019 Northwest Missouri State University. All rights reserved.</p>
+</div> <a id="btn-top">Top</a></footer>
+
+<script src="https://www.nwmissouri.edu/layout/v2019/scripts/general.js" type="text/javascript">
+</script>
+</body>
+</html>
